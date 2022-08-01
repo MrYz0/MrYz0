@@ -1,5 +1,6 @@
 ![https://yz-typora-img.oss-cn-shanghai.aliyuncs.com/img/GitHubBanner.gif](https://yz-typora-img.oss-cn-shanghai.aliyuncs.com/img/GitHubBanner.gif)
 
+<img src="https://yz-typora-img.oss-cn-shanghai.aliyuncs.com/img/GitHubBanner.gif;center=true">
 
 <h1 align="center">
   <a href="https://sunguoqi.com/">
