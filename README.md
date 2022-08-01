@@ -22,5 +22,5 @@
 	<img  src="https://img.shields.io/badge/-JAVA-1572B6?style=flat-square&logo=Java" />
 	<img  src="https://img.shields.io/badge/-mysql-oringe?style=flat-square&logo=mysql" />
 	<img  src="https://img.shields.io/badge/-spring-red?style=flat-square&logo=spring" />
-	<img  src="https://img.shields.io/badge/-mybatis-yellow?style=flat-square&logo=MyBatis" />
+	<img  src="https://img.shields.io/badge/-MyBatis-yellow?style=flat-square&logo=MyBatis" />
 </span>
